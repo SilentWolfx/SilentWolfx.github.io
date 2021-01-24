@@ -31,9 +31,9 @@
     
     
     
-    <category term="Arduino" scheme="http://example.com/tags/Arduino/"/>
-    
     <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Arduino" scheme="http://example.com/tags/Arduino/"/>
     
   </entry>
   
@@ -53,9 +53,9 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
