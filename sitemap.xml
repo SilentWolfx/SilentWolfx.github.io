@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/01/29/%E9%AB%98%E4%B8%AD%E7%89%A9%E7%90%86%E5%AD%A6%E5%8F%B2/</loc>
+    
+    <lastmod>2021-01-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -69,6 +76,13 @@
 
   
   <url>
+    <loc>http://example.com/categories/Arduino/</loc>
+    <lastmod>2021-01-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/categories/Blog/</loc>
     <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
@@ -76,7 +90,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Arduino/</loc>
+    <loc>http://example.com/categories/%E9%AB%98%E4%B8%AD/</loc>
     <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
