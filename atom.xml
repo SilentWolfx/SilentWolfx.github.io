@@ -31,29 +31,7 @@
     
     
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
     <category term="Arduino" scheme="http://example.com/tags/Arduino/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>My first blog</title>
-    <link href="http://example.com/2021/01/02/My%20first%20blog/"/>
-    <id>http://example.com/2021/01/02/My%20first%20blog/</id>
-    <published>2021-01-02T04:00:22.624Z</published>
-    <updated>2021-01-09T13:23:47.966Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="My-first-blog"><a href="#My-first-blog" class="headerlink" title="My first blog"></a>My first blog</h1><p>2021年01月01日，新的一年，我的博客正式进行部署！</p><h2 id="What-is-a-blog？"><a href="#What-is-a-blog？" class="headerlink" title="What is a blog？"></a>What is a blog？</h2><a id="more"></a><p><strong>博客</strong>，仅音译，英文名为<a href="https://baike.baidu.com/item/Blogger">Blogger</a>，为Web Log的混成词。它的正式名称为网络日记；又<a href="https://baike.baidu.com/item/%E9%9F%B3%E8%AF%91">音译</a>为<a href="https://baike.baidu.com/item/%E9%83%A8%E8%90%BD%E6%A0%BC">部落格</a>或部落阁等，是使用特定的软件，在网络上出版、发表和张贴个人文章的人，或者是一种通常由个人管理、不定期张贴新的文章的<a href="https://baike.baidu.com/item/%E7%BD%91%E7%AB%99/155722">网站</a>。博客上的文章通常以<a href="https://baike.baidu.com/item/%E7%BD%91%E9%A1%B5/99347">网页</a>形式出现，并根据张贴时间，以倒序排列。通常具备<a href="https://baike.baidu.com/item/RSS/24470">RSS</a>订阅功能。博客是继MSN、BBS、ICQ之后出现的第4种网络交流方式，现已受到大家的欢迎，是网络时代的个人“<a href="https://baike.baidu.com/item/%E8%AF%BB%E8%80%85%E6%96%87%E6%91%98/1588509">读者文摘</a>”，是以超级链接为入口的网络日记，它代表着新的生活、工作和学习方式。许多博客专注在特定的课题上提供评论或<a href="https://baike.baidu.com/item/%E6%96%B0%E9%97%BB">新闻</a>，其他则被作为个人性的<a href="https://baike.baidu.com/item/%E6%97%A5%E8%AE%B0">日记</a>。一个典型的博客结合了<a href="https://baike.baidu.com/item/%E6%96%87%E5%AD%97">文字</a>、图像、其他博客或网站的<a href="https://baike.baidu.com/item/%E9%93%BE%E6%8E%A5">链接</a>及其它与主题相关的<a href="https://baike.baidu.com/item/%E5%AA%92%E4%BD%93">媒体</a>，能够让读者以<a href="https://baike.baidu.com/item/%E4%BA%92%E5%8A%A8/10073145">互动</a>的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，但仍有一些博客专注在艺术、摄影、视频、音乐、<a href="https://baike.baidu.com/item/%E6%92%AD%E5%AE%A2">播客</a>等各种主题。博客是社会媒体网络的一部分。比较著名的有<a href="https://baike.baidu.com/item/%E6%96%B0%E6%B5%AA/125692">新浪</a>等博客。</p><blockquote><p><a href="https://baike.baidu.com/item/%E5%8D%9A%E5%AE%A2/124?fr=aladdin">百度百科-博客</a></p></blockquote><h2 id="Why-use-a-blog？"><a href="#Why-use-a-blog？" class="headerlink" title="Why use a blog？"></a>Why use a blog？</h2><p>之前在网络上学习知识，想要存储起来都是在各平台上点击收藏，或是保存下来对应的网址链接。</p><p>三个月前情感波动比较大，诞生了写日记的想法，写是写了，后面因为作业太多就没怎么动日记本。</p><p>一个多月前偶然了解到博客，看着他人博客上一个个精美简约的画面，我心动了。</p><p>于是乎，心动不如行动，我在学习一定的新知识之后，搭建起了属于自己的博客。</p><p>博客正好满足了我记录生活琐事，积累知识技能，表达个人观点等需求。</p><p>想写就写，随意一点，如果恰好能帮助到你，那就更好不过。</p><p>我需要高质量的学习方式。</p><p>愿自己可以坚持下去！</p><h2 id="How-to-get-a-blog？（Windows10）"><a href="#How-to-get-a-blog？（Windows10）" class="headerlink" title="How to get a blog？（Windows10）"></a>How to get a blog？（Windows10）</h2>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;My-first-blog&quot;&gt;&lt;a href=&quot;#My-first-blog&quot; class=&quot;headerlink&quot; title=&quot;My first blog&quot;&gt;&lt;/a&gt;My first blog&lt;/h1&gt;&lt;p&gt;2021年01月01日，新的一年，我的博客正式进行部署！&lt;/p&gt;
-&lt;h2 id=&quot;What-is-a-blog？&quot;&gt;&lt;a href=&quot;#What-is-a-blog？&quot; class=&quot;headerlink&quot; title=&quot;What is a blog？&quot;&gt;&lt;/a&gt;What is a blog？&lt;/h2&gt;</summary>
-    
-    
-    
-    
-    <category term="日记" scheme="http://example.com/tags/%E6%97%A5%E8%AE%B0/"/>
     
     <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
