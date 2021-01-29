@@ -35,4 +35,86 @@
     
   </entry>
   
+  <entry>
+    <title>Typora编写文章</title>
+    <link href="http://example.com/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/</id>
+    <published>2021-01-09T14:05:02.418Z</published>
+    <updated>2021-01-29T15:04:38.716Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用Typora编写文章"><a href="#使用Typora编写文章" class="headerlink" title="使用Typora编写文章"></a>使用<a href="https://www.typora.io/">Typora</a>编写文章</h1><p>  Typora是一款支持实时预览的Markdown(<a href="https://markdown.com.cn/">Markdown语法</a>)格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，包括对GitHub Flavored Markdown扩展格式的支持、拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性.</p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-04%20%2003.png" alt="img"></p><p> Typora的状态栏里有一些语法的快捷键使用方法.</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;使用Typora编写文章&quot;&gt;&lt;a href=&quot;#使用Typora编写文章&quot; class=&quot;headerlink&quot; title=&quot;使用Typora编写文章&quot;&gt;&lt;/a&gt;使用&lt;a href=&quot;https://www.typora.io/&quot;&gt;Typora&lt;/a&gt;编写文章&lt;/h1&gt;&lt;p&gt;  Typora是一款支持实时预览的Markdown(&lt;a href=&quot;https://markdown.com.cn/&quot;&gt;Markdown语法&lt;/a&gt;)格式文本编辑器，支持Windows、macOS和GNU/Linux操作系统，包括对GitHub Flavored Markdown扩展格式的支持、拼写检查、自定义CSS样式、数学公式渲染（通过MathJax）等特性.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法</title>
+    <link href="http://example.com/2021/01/09/Blog-Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+    <id>http://example.com/2021/01/09/Blog-Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</id>
+    <published>2021-01-09T13:37:16.264Z</published>
+    <updated>2021-01-29T15:04:14.531Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Blog-03-Markdown语法"><a href="#Blog-03-Markdown语法" class="headerlink" title="Blog-03 Markdown语法"></a>Blog-03 <a href="https://markdown.com.cn/">Markdown语法</a></h1><p>  Markdown是一种轻量级的「标记语言」，通常为程序员群体所用，目前它已是全球最大的技术分享网站 GitHub 和技术问答网站 StackOverFlow 的御用书写格式.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Blog-03-Markdown语法&quot;&gt;&lt;a href=&quot;#Blog-03-Markdown语法&quot; class=&quot;headerlink&quot; title=&quot;Blog-03 Markdown语法&quot;&gt;&lt;/a&gt;Blog-03 &lt;a href=&quot;https://markdow</summary>
+      
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub远端部署</title>
+    <link href="http://example.com/2021/01/09/Blog-GitHub%E8%BF%9C%E7%AB%AF%E9%83%A8%E7%BD%B2/"/>
+    <id>http://example.com/2021/01/09/Blog-GitHub%E8%BF%9C%E7%AB%AF%E9%83%A8%E7%BD%B2/</id>
+    <published>2021-01-09T10:14:06.136Z</published>
+    <updated>2021-01-29T15:03:45.532Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用GitHub远端部署"><a href="#使用GitHub远端部署" class="headerlink" title="使用GitHub远端部署"></a>使用GitHub远端部署</h1><h2 id="在GitHub建立个人仓库"><a href="#在GitHub建立个人仓库" class="headerlink" title="在GitHub建立个人仓库"></a>在<a href="https://github.com/">GitHub</a>建立个人仓库</h2><p>在Repository name一栏中</p><p>填写仓库名YourGithubName.github.io（YourGithubName为你的GitHub名称）</p><p>点击Create repository创建个人仓库</p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-02%2001.png" alt="Blog-02 01"></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-02%2002.png" alt="Blog-02 02"></p><h2 id="安装部署插件"><a href="#安装部署插件" class="headerlink" title="安装部署插件"></a>安装部署插件</h2><p>在blog目录下打开Git Bush（右击文件夹）进行安装</p><p><code>cnpm install --save hexo-deployer-git</code></p><h2 id="配置git身份"><a href="#配置git身份" class="headerlink" title="配置git身份"></a>配置git身份</h2><p><code>git config --global user.name &quot;username&quot;</code></p><p><code>git config --global user.email &quot;email&quot;</code></p><p>（将username和eamil换成的你的GitHub名称和邮箱）</p><h2 id="进行Blog相关配置"><a href="#进行Blog相关配置" class="headerlink" title="进行Blog相关配置"></a>进行Blog相关配置</h2><p>打开_config.yml文件</p><p><code>vim _config.yml</code></p><p>配置_config.yml文件</p><p>按A进入INSERT模式即可修改数据进行配置（按某些键也行）</p><p>按Esc再按:wq保存并退出（英文输入模式下）</p><p>往下滑在# Deployment中修改数据</p><p> <code>type: &#39;git&#39;</code></p><p> <code>repo: YourGithubName.github.io</code></p><p><code>branch: master</code></p><p>（YourGithubName为你的GitHub名称）</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-02%2003.png" alt="Blog-02 03"></p><h2 id="部署到GitHub仓库中"><a href="#部署到GitHub仓库中" class="headerlink" title="部署到GitHub仓库中"></a>部署到GitHub仓库中</h2><p>https部署：</p><p><code>hexo clean</code></p><p><code>hexo g</code></p><p> <code>hexo d</code></p><p>（注意：第一次远端部署会验证你的身份，会弹出窗口让你输入GitHub的账号密码）</p><p>ssh部署：部署无需密码，但需先配置<code>ssh key</code></p><h2 id="远程访问博客"><a href="#远程访问博客" class="headerlink" title="远程访问博客"></a>远程访问博客</h2><p>浏览器中输入</p><p><a href="https://yourgithubname.github.io/">https://YourGithubName.github.io</a></p><p>（YourGithubName为你的GitHub名称）</p><p>Blog远端部署完成！</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;使用GitHub远端部署&quot;&gt;&lt;a href=&quot;#使用GitHub远端部署&quot; class=&quot;headerlink&quot; title=&quot;使用GitHub远端部署&quot;&gt;&lt;/a&gt;使用GitHub远端部署&lt;/h1&gt;&lt;h2 id=&quot;在GitHub建立个人仓库&quot;&gt;&lt;a href=&quot;#在GitHub建立个人仓库&quot; class=&quot;headerlink&quot; title=&quot;在GitHub建立个人仓库&quot;&gt;&lt;/a&gt;在&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;建立个人仓库&lt;/h2&gt;&lt;p&gt;在Repository name一栏中&lt;/p&gt;
+&lt;p&gt;填写仓库名YourGithubName.github.io（YourGithubName为你的GitHub名称）&lt;/p&gt;
+&lt;p&gt;点击Create repository创建个人仓库&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建框架</title>
+    <link href="http://example.com/2021/01/09/Blog-Hexo%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/"/>
+    <id>http://example.com/2021/01/09/Blog-Hexo%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/</id>
+    <published>2021-01-09T10:10:32.287Z</published>
+    <updated>2021-01-29T15:03:54.316Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用Hexo搭建框架"><a href="#使用Hexo搭建框架" class="headerlink" title="使用Hexo搭建框架"></a>使用Hexo搭建框架</h1><h2 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装<a href="https://nodejs.org/">Node.js</a></h2><p><a href="http://nodejs.cn/">Node.js中文网</a></p><p>安装完成后Win+R，在运行中输入cmd打开命令面板</p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2001.png" alt="Blog-00 01"></p><h3 id="查看node-js版本"><a href="#查看node-js版本" class="headerlink" title="查看node.js版本"></a>查看node.js版本</h3><p><code> node -v</code></p><h3 id="查看npm版本"><a href="#查看npm版本" class="headerlink" title="查看npm版本"></a>查看npm版本</h3><p><code> npm -v</code></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2002.png" alt="Blog-00 02"></p><p>（注意：代码前有一个空格）</p><h2 id="安装cnpm"><a href="#安装cnpm" class="headerlink" title="安装cnpm"></a>安装cnpm</h2><p><code> npm install -g cnpm --registry=http://registry.npm.taobao.org</code></p><h3 id="查看cnpm版本"><a href="#查看cnpm版本" class="headerlink" title="查看cnpm版本"></a>查看cnpm版本</h3><p><code> cnpm -v</code></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2003.png" alt="Blog-00 03"></p><p>（注意：安装需要一定时间请耐心等待）</p><h2 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装<a href="https://git-scm.com/">Git</a></h2><p><a href="http://www.git-scm.com.cn/">Git中文网</a></p><h2 id="一些cmd命令"><a href="#一些cmd命令" class="headerlink" title="一些cmd命令"></a>一些cmd命令</h2><p>查看当前路径</p><p><code>chdir</code></p><p>新建文件夹</p><p><code>md blog</code>（新建blog文件夹）</p><p><code>md d:/blog</code>（在D盘新建blog文件夹）</p><p>进入文件夹</p><p><code>cd blog</code>（进入blog文件夹）</p><h2 id="安装-Hexo框架"><a href="#安装-Hexo框架" class="headerlink" title="安装 Hexo框架"></a>安装 <a href="https://hexo.io/zh-cn/index.html">Hexo</a>框架</h2><p>新建Blog文件夹用于存放你的Blog文件</p><p>右击该文件夹点击Git Bush Here</p><p><code> cnpm install -g hexo-cli</code></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2004.png" alt="Blog-00 04"></p><h3 id="查看hexo版本"><a href="#查看hexo版本" class="headerlink" title="查看hexo版本"></a>查看hexo版本</h3><p><code> hexo -v</code></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2005.png" alt="Blog-00 05"></p><h2 id="生成博客并初始化博客"><a href="#生成博客并初始化博客" class="headerlink" title="生成博客并初始化博客"></a>生成博客并初始化博客</h2><p><code> hexo init</code> </p><h2 id="一些Git-Bash命令"><a href="#一些Git-Bash命令" class="headerlink" title="一些Git Bash命令"></a>一些Git Bash命令</h2><p>查看当前路径</p><p> <code>pwd</code></p><p>显示目录列表</p><p><code>ls</code></p><h2 id="启动本地博客服务"><a href="#启动本地博客服务" class="headerlink" title="启动本地博客服务"></a>启动本地博客服务</h2><p><code> hexo s</code></p><p>在浏览器中打开</p><p><a href="http://localhost:4000/">http://localhost:4000/</a></p><p>（默认为此端口号）</p><p>即可本地访问blog啦！</p><p>Ctrl+C停止访问</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Blog-00%2006.png" alt="Blog-00 06"></p><p>至此，Blog已经搭建完成了！</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;使用Hexo搭建框架&quot;&gt;&lt;a href=&quot;#使用Hexo搭建框架&quot; class=&quot;headerlink&quot; title=&quot;使用Hexo搭建框架&quot;&gt;&lt;/a&gt;使用Hexo搭建框架&lt;/h1&gt;&lt;h2 id=&quot;安装Node-js&quot;&gt;&lt;a href=&quot;#安装Node-js&quot; class=&quot;headerlink&quot; title=&quot;安装Node.js&quot;&gt;&lt;/a&gt;安装&lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://nodejs.cn/&quot;&gt;Node.js中文网&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;安装完成后Win+R，在运行中输入cmd打开命令面板&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
+  
 </feed>
