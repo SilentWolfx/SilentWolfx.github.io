@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-09T14:00:36.515Z</updated>
+  <updated>2021-01-29T11:33:52.380Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Arduino-01 Arduino IDE的暗黑主题</title>
+    <title>Arduino IDE的暗黑主题</title>
     <link href="http://example.com/2021/01/23/Arduino-01Arduino%20IDE%E7%9A%84%E6%9A%97%E9%BB%91%E4%B8%BB%E9%A2%98/"/>
     <id>http://example.com/2021/01/23/Arduino-01Arduino%20IDE%E7%9A%84%E6%9A%97%E9%BB%91%E4%B8%BB%E9%A2%98/</id>
     <published>2021-01-23T02:11:08.905Z</published>
-    <updated>2021-01-09T14:00:36.515Z</updated>
+    <updated>2021-01-29T11:33:52.380Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Arduino-01-Arduino-IDE的暗黑主题"><a href="#Arduino-01-Arduino-IDE的暗黑主题" class="headerlink" title="Arduino-01 Arduino IDE的暗黑主题"></a>Arduino-01 Arduino IDE的暗黑主题</h1><h2 id="下载暗黑主题"><a href="#下载暗黑主题" class="headerlink" title="下载暗黑主题"></a>下载暗黑主题</h2><p><a href="https://github.com/jeffThompson/DarkArduinoTheme">DarkArduinoTheme</a><br>点击Download ZIP下载压缩包并解压.</p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Arduino-01%2001.png" alt="Arduino-01 01"></p><h2 id="替换主题文件"><a href="#替换主题文件" class="headerlink" title="替换主题文件"></a>替换主题文件</h2><p>打开Arduino\lib文件</p><p>将其中的theme文件替换为下载的theme文件即可.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Arduino-01%2002.png" alt="Arduino-01 02"></p>]]></content>
     
@@ -30,10 +30,8 @@
     
     
     
+    <category term="Arduino" scheme="http://example.com/categories/Arduino/"/>
     
-    <category term="Arduino" scheme="http://example.com/tags/Arduino/"/>
-    
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
