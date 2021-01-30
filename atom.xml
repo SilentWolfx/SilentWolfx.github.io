@@ -108,7 +108,7 @@
     <link href="http://example.com/2021/01/23/Arduino-Arduino%20IDE%E7%9A%84%E6%9A%97%E9%BB%91%E4%B8%BB%E9%A2%98/"/>
     <id>http://example.com/2021/01/23/Arduino-Arduino%20IDE%E7%9A%84%E6%9A%97%E9%BB%91%E4%B8%BB%E9%A2%98/</id>
     <published>2021-01-23T02:11:08.905Z</published>
-    <updated>2021-01-30T09:56:52.770Z</updated>
+    <updated>2021-01-30T10:10:45.899Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Arduino-01-Arduino-IDE的暗黑主题"><a href="#Arduino-01-Arduino-IDE的暗黑主题" class="headerlink" title="Arduino-01 Arduino IDE的暗黑主题"></a>Arduino-01 Arduino IDE的暗黑主题</h1><h2 id="下载暗黑主题"><a href="#下载暗黑主题" class="headerlink" title="下载暗黑主题"></a>下载暗黑主题</h2><p><a href="https://github.com/jeffThompson/DarkArduinoTheme">DarkArduinoTheme</a><br>点击Download ZIP下载压缩包并解压.</p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Arduino-01%2001.png" alt="Arduino-01 01"></p><h2 id="替换主题文件"><a href="#替换主题文件" class="headerlink" title="替换主题文件"></a>替换主题文件</h2><p>打开Arduino\lib文件</p><p>将其中的theme文件替换为下载的theme文件即可.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/Arduino-01%2002.png" alt="Arduino-01 02"></p>]]></content>
     
@@ -196,6 +196,28 @@
     
     <summary type="html">&lt;h1 id=&quot;使用Hexo搭建框架&quot;&gt;&lt;a href=&quot;#使用Hexo搭建框架&quot; class=&quot;headerlink&quot; title=&quot;使用Hexo搭建框架&quot;&gt;&lt;/a&gt;使用Hexo搭建框架&lt;/h1&gt;&lt;h2 id=&quot;安装Node-js&quot;&gt;&lt;a href=&quot;#安装Node-js&quot; class=&quot;headerlink&quot; title=&quot;安装Node.js&quot;&gt;&lt;/a&gt;安装&lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;http://nodejs.cn/&quot;&gt;Node.js中文网&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;安装完成后Win+R，在运行中输入cmd打开命令面板&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>How to get a blog? （Windows10）</title>
+    <link href="http://example.com/2021/01/09/Blog-0%20How%20to%20get%20a%20blog/"/>
+    <id>http://example.com/2021/01/09/Blog-0%20How%20to%20get%20a%20blog/</id>
+    <published>2021-01-09T09:55:37.367Z</published>
+    <updated>2021-01-30T10:15:57.386Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="How-to-get-a-blog"><a href="#How-to-get-a-blog" class="headerlink" title="How to get a blog?"></a>How to get a blog?</h1><h2 id="搭建框架"><a href="#搭建框架" class="headerlink" title="搭建框架"></a>搭建框架</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Hexo%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/">Hexo搭建框架</a></p><h2 id="远端部署"><a href="#远端部署" class="headerlink" title="远端部署"></a>远端部署</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-GitHub%E8%BF%9C%E7%AB%AF%E9%83%A8%E7%BD%B2/">GitHub远端部署</a></p><h2 id="编写文章"><a href="#编写文章" class="headerlink" title="编写文章"></a>编写文章</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-%E6%92%B0%E5%86%99%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/">撰写博客文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/">Typora编写文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-PicGo%E9%85%8D%E7%BD%AEGitHub%E5%9B%BE%E5%BA%8A/">PicGo配置GitHub图床</a></p><h2 id="后期优化"><a href="#后期优化" class="headerlink" title="后期优化"></a>后期优化</h2><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-Butterfly%E4%B8%BB%E9%A2%98/">Butterfly主题</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AEGitHub/">加速访问GitHub</a></p><p>持续更新中……</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;How-to-get-a-blog&quot;&gt;&lt;a href=&quot;#How-to-get-a-blog&quot; class=&quot;headerlink&quot; title=&quot;How to get a blog?&quot;&gt;&lt;/a&gt;How to get a blog?&lt;/h1&gt;&lt;h2 id=&quot;搭建框</summary>
+      
     
     
     
