@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-01-30T09:36:22.265Z</updated>
+  <updated>2021-01-30T09:54:27.569Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>加速访问GitHub</title>
+    <link href="http://example.com/2021/01/30/Blog-%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AEGitHub/"/>
+    <id>http://example.com/2021/01/30/Blog-%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AEGitHub/</id>
+    <published>2021-01-30T09:35:17.323Z</published>
+    <updated>2021-01-30T09:54:27.569Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="加速访问GitHub"><a href="#加速访问GitHub" class="headerlink" title="加速访问GitHub"></a>加速访问GitHub</h1><p>国内访问GitHub的速度实在堪忧.</p><p>通过修改系统hosts文件，绕过国内dns解析，直接访问GitHub的CDN节点，从而达到加速的目的.</p><h2 id="获取GitHub官方CDN地址"><a href="#获取GitHub官方CDN地址" class="headerlink" title="获取GitHub官方CDN地址"></a>获取GitHub官方CDN地址</h2><p>登入<a href="https://www.ipaddress.com/">https://www.ipaddress.com/</a>.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210130175227.png" alt="屏幕截图 2021-01-30 175215"></p><p>查询以下三个链接的DNS解析地址</p><p><strong>github.com</strong><br><strong>assets-cdn.github.com</strong><br><strong>github.global.ssl.fastly.net</strong></p><p>记录下所查询的IP地址.</p><h2 id="修改Host文件"><a href="#修改Host文件" class="headerlink" title="修改Host文件"></a>修改Host文件</h2><p>打开系统hosts（host文件路径 <strong>C:\Windows\System32\drivers\etc</strong>）文件(需管理员权限).</p><p>在末尾添加三行记录并保存.(需管理员权限，注意IP地址与域名间需留有<strong>空格</strong>)</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210130175123.png" alt="屏幕截图 2021-01-30 175042"></p><h2 id="刷新系统DNS缓存"><a href="#刷新系统DNS缓存" class="headerlink" title="刷新系统DNS缓存"></a>刷新系统DNS缓存</h2><p>Windows+X 打开系统命令行（管理员身份）或powershell.<br><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210130175339.png" alt="屏幕截图 2021-01-30 175110"></p><p>运行 ipconfig /flushdns 手动刷新系统DNS缓存.<br><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210130175350.png" alt="468490-a16d3e78189b9ad5"></p><p>加速完成！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;加速访问GitHub&quot;&gt;&lt;a href=&quot;#加速访问GitHub&quot; class=&quot;headerlink&quot; title=&quot;加速访问GitHub&quot;&gt;&lt;/a&gt;加速访问GitHub&lt;/h1&gt;&lt;p&gt;国内访问GitHub的速度实在堪忧.&lt;/p&gt;
+&lt;p&gt;通过修改系统hosts文</summary>
+      
+    
+    
+    
+    <category term="Blog" scheme="http://example.com/categories/Blog/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Butterfly主题</title>
