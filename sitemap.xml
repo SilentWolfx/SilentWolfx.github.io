@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/02/03/Other-%E6%AD%A5%E6%AD%A5%E9%AB%989688%E6%8B%86%E5%8D%B8/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2021/02/01/Arduino-L298N%E7%94%B5%E6%9C%BA%E6%A8%A1%E5%9D%97/</loc>
     
     <lastmod>2021-02-01</lastmod>
@@ -102,7 +109,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -112,21 +119,28 @@
   
   <url>
     <loc>http://example.com/categories/Arduino/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Blog/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E9%AB%98%E4%B8%AD/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Other/</loc>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

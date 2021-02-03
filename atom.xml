@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-01T12:48:05.938Z</updated>
+  <updated>2021-02-03T10:22:27.152Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>步步高9688拆卸</title>
+    <link href="http://example.com/2021/02/03/Other-%E6%AD%A5%E6%AD%A5%E9%AB%989688%E6%8B%86%E5%8D%B8/"/>
+    <id>http://example.com/2021/02/03/Other-%E6%AD%A5%E6%AD%A5%E9%AB%989688%E6%8B%86%E5%8D%B8/</id>
+    <published>2021-02-03T09:58:22.264Z</published>
+    <updated>2021-02-03T10:22:27.152Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="步步高9688拆卸"><a href="#步步高9688拆卸" class="headerlink" title="步步高9688拆卸"></a>步步高9688拆卸</h1><p>步步高推出的一款IBOX学习机，配备 32位高速中央处理器、FLASH容量 512MB、130万像素摄像头、支持全屏手写、900mAh锂离子充电电池.<br>还支持扩展存储卡，真人发音，播放MP3音频，播放MP4视频.</p><h2 id="外壳"><a href="#外壳" class="headerlink" title="外壳"></a>外壳</h2><p>卡扣好紧，有点棘手，胶已经老化了.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203181505.png" alt="微信图片_202102031807157"></p><h2 id="主板"><a href="#主板" class="headerlink" title="主板"></a>主板</h2><p>不小心把喇叭的线扯下来了.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203181721.png" alt="微信图片_202102031807157"></p><p>主板背部和屏幕有排线，小心拆卸！</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203181933.jpg" alt="微信图片_202102031807151"></p><h2 id="按键"><a href="#按键" class="headerlink" title="按键"></a>按键</h2><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203182044.png" alt="微信图片_202102031807157"></p><h2 id="全家福"><a href="#全家福" class="headerlink" title="全家福"></a>全家福</h2><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203182117.jpg" alt="微信图片_202102031807152"><br><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203182123.jpg" alt="微信图片_202102031807153"></p><h2 id="特写"><a href="#特写" class="headerlink" title="特写"></a>特写</h2><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203182220.jpg" alt="微信图片_202102031807155"><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210203182212.jpg" alt="微信图片_202102031807154"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;步步高9688拆卸&quot;&gt;&lt;a href=&quot;#步步高9688拆卸&quot; class=&quot;headerlink&quot; title=&quot;步步高9688拆卸&quot;&gt;&lt;/a&gt;步步高9688拆卸&lt;/h1&gt;&lt;p&gt;步步高推出的一款IBOX学习机，配备 32位高速中央处理器、FLASH容量 512M</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="http://example.com/categories/Other/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>L298N电机驱动模块</title>
