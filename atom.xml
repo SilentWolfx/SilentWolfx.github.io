@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-10T02:46:56.606Z</updated>
+  <updated>2021-02-10T14:34:46.973Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>雨滴Rainmeter</title>
+    <link href="http://example.com/2021/02/10/Other-%E9%9B%A8%E6%BB%B4Rainmeter/"/>
+    <id>http://example.com/2021/02/10/Other-%E9%9B%A8%E6%BB%B4Rainmeter/</id>
+    <published>2021-02-10T13:40:49.277Z</published>
+    <updated>2021-02-10T14:34:46.973Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="雨滴Rainmeter"><a href="#雨滴Rainmeter" class="headerlink" title="雨滴Rainmeter"></a>雨滴Rainmeter</h1><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="雨滴美化社区"><a href="#雨滴美化社区" class="headerlink" title="雨滴美化社区"></a><a href="https://bbs.rainmeter.cn/">雨滴美化社区</a></h3><p>网页底部进入下载页面.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210210215106.png" alt="屏幕截图 2021-02-10 214907"></p><h3 id="致美化"><a href="#致美化" class="headerlink" title="致美化"></a><a href="https://zhutix.com/">致美化</a></h3><p>同样是网页底部即可进入下载入口.</p><h2 id="皮肤"><a href="#皮肤" class="headerlink" title="皮肤"></a>皮肤</h2><h3 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h3><p>前面安装的两个网站里面有很多.</p><p>博主自己使用的 来自B站up主<a href="https://space.bilibili.com/82525066?spm_id_from=333.788.b_765f7570696e666f.1"><strong>九亿分之一炸鸡</strong></a>的<a href="https://docs.qq.com/doc/DYmxPeXBUdkxhRWFt">简文</a>皮肤.</p><h3 id="安装-1"><a href="#安装-1" class="headerlink" title="安装"></a>安装</h3><p>皮肤格式有两种，分别是.ini类的和.rmskin类的，安装方式略有不同.</p><h4 id="ini"><a href="#ini" class="headerlink" title=".ini"></a>.ini</h4><p>将整个文件夹拷贝到雨滴皮肤目录Rainmeter-skins中.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210210220835.png" alt="屏幕截图 2021-02-10 220748"></p><h4 id="rmskin"><a href="#rmskin" class="headerlink" title=".rmskin"></a>.rmskin</h4><p>用Rainmeter打开该后缀文件即可.</p><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>完成上述操作后在Rainmeter管理器中刷新全部（左下角），选择相应的文件夹及相应的控件（左侧），加载（右上角）对应的控件即可.<br>在管理器中还可以完成一些对控件的设置（右下角）.<br>此处用的是B站up主<strong>九亿分之一炸鸡</strong>的皮肤 <a href="https://www.bilibili.com/video/BV1N5411x7KP">原视频教程</a></p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210210221916.png" alt="屏幕截图 2021-02-10 221339"></p><h2 id="修改参数"><a href="#修改参数" class="headerlink" title="修改参数"></a>修改参数</h2><p>在控件编辑（右上角）中可修改相关参数.</p><p>待更新……</p><h2 id="保存主题"><a href="#保存主题" class="headerlink" title="保存主题"></a>保存主题</h2><p>在Rainmeter管理器中主题（上方）中的名称一栏输入自定义名称点击保存.</p><p>下次使用该主题可以选中对应主题直接加载.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;雨滴Rainmeter&quot;&gt;&lt;a href=&quot;#雨滴Rainmeter&quot; class=&quot;headerlink&quot; title=&quot;雨滴Rainmeter&quot;&gt;&lt;/a&gt;雨滴Rainmeter&lt;/h1&gt;&lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;head</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="http://example.com/categories/Other/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>酷我音乐破解版</title>
@@ -320,9 +342,9 @@
     <link href="http://example.com/2021/01/09/Blog-0%20How%20to%20get%20a%20blog/"/>
     <id>http://example.com/2021/01/09/Blog-0%20How%20to%20get%20a%20blog/</id>
     <published>2021-01-09T09:55:37.367Z</published>
-    <updated>2021-01-30T10:15:57.386Z</updated>
+    <updated>2021-02-10T13:39:39.339Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="How-to-get-a-blog"><a href="#How-to-get-a-blog" class="headerlink" title="How to get a blog?"></a>How to get a blog?</h1><h2 id="搭建框架"><a href="#搭建框架" class="headerlink" title="搭建框架"></a>搭建框架</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Hexo%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/">Hexo搭建框架</a></p><h2 id="远端部署"><a href="#远端部署" class="headerlink" title="远端部署"></a>远端部署</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-GitHub%E8%BF%9C%E7%AB%AF%E9%83%A8%E7%BD%B2/">GitHub远端部署</a></p><h2 id="编写文章"><a href="#编写文章" class="headerlink" title="编写文章"></a>编写文章</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-%E6%92%B0%E5%86%99%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/">撰写博客文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/">Typora编写文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-PicGo%E9%85%8D%E7%BD%AEGitHub%E5%9B%BE%E5%BA%8A/">PicGo配置GitHub图床</a></p><h2 id="后期优化"><a href="#后期优化" class="headerlink" title="后期优化"></a>后期优化</h2><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-Butterfly%E4%B8%BB%E9%A2%98/">Butterfly主题</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AEGitHub/">加速访问GitHub</a></p><p>持续更新中……</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="How-to-get-a-blog"><a href="#How-to-get-a-blog" class="headerlink" title="How to get a blog?"></a>How to get a blog?</h1><h2 id="搭建框架"><a href="#搭建框架" class="headerlink" title="搭建框架"></a>搭建框架</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Hexo%E6%90%AD%E5%BB%BA%E6%A1%86%E6%9E%B6/">Hexo搭建框架</a></p><h2 id="远端部署"><a href="#远端部署" class="headerlink" title="远端部署"></a>远端部署</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-GitHub%E8%BF%9C%E7%AB%AF%E9%83%A8%E7%BD%B2/">GitHub远端部署</a></p><h2 id="编写文章"><a href="#编写文章" class="headerlink" title="编写文章"></a>编写文章</h2><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-%E6%92%B0%E5%86%99%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/">撰写博客文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/09/Blog-Typora%E7%BC%96%E5%86%99%E6%96%87%E7%AB%A0/">Typora编写文章</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-PicGo%E9%85%8D%E7%BD%AEGitHub%E5%9B%BE%E5%BA%8A/">PicGo配置GitHub图床</a></p><h2 id="后期优化"><a href="#后期优化" class="headerlink" title="后期优化"></a>后期优化</h2><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-Butterfly%E4%B8%BB%E9%A2%98/">Butterfly主题</a></p><p><a href="https://silentwolfx.github.io/2021/01/30/Blog-%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AEGitHub/">加速访问GitHub</a></p><p>配置域名</p><p>持续更新中……</p>]]></content>
     
     
       
