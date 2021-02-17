@@ -39,18 +39,18 @@
   </entry>
   
   <entry>
-    <title>Blog-配置腾讯云域名</title>
+    <title>配置腾讯云域名</title>
     <link href="http://example.com/2021/02/16/Blog-%E9%85%8D%E7%BD%AE%E8%85%BE%E8%AE%AF%E4%BA%91%E5%9F%9F%E5%90%8D/"/>
     <id>http://example.com/2021/02/16/Blog-%E9%85%8D%E7%BD%AE%E8%85%BE%E8%AE%AF%E4%BA%91%E5%9F%9F%E5%90%8D/</id>
     <published>2021-02-16T01:49:36.680Z</published>
-    <updated>2021-02-16T02:15:06.738Z</updated>
+    <updated>2021-02-16T04:23:03.522Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Blog-配置腾讯云域名"><a href="#Blog-配置腾讯云域名" class="headerlink" title="Blog-配置腾讯云域名"></a>Blog-配置腾讯云域名</h1><h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p><a href="https://cloud.tencent.com/act/domainsales?fromSource=gwzcw.2212036.2212036.2212036&utm_medium=cpc&utm_id=gwzcw.2212036.2212036.2212036">前往腾讯云注册域名</a></p><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h3 id="登入域名控制台"><a href="#登入域名控制台" class="headerlink" title="登入域名控制台"></a>登入域名控制台</h3><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100016.png" alt="屏幕截图 2021-02-16 095812"></p><h3 id="添加解析记录"><a href="#添加解析记录" class="headerlink" title="添加解析记录"></a>添加解析记录</h3><p>选择对应域名点击解析.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100102.png" alt="屏幕截图 2021-02-16 095836"></p><p>点击添加记录添加两条记录.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100113.png" alt="屏幕截图 2021-02-16 095901"></p><h4 id="记录一"><a href="#记录一" class="headerlink" title="记录一"></a>记录一</h4><p>主机记录 @<br>记录类型 CNAME<br>线路类型 默认<br>记录值 username.github.io(可访问自己博客的地址)<br>TTL（秒） 600</p><h4 id="记录二"><a href="#记录二" class="headerlink" title="记录二"></a>记录二</h4><p>主机记录 www<br>记录类型 A<br>线路类型 默认<br>记录值 xxx.xxx.xxx.xxx（填写自己博客公网ip）<br>TTL（秒） 600</p><h2 id="配置域名"><a href="#配置域名" class="headerlink" title="配置域名"></a>配置域名</h2><h3 id="仓库配置"><a href="#仓库配置" class="headerlink" title="仓库配置"></a>仓库配置</h3><p>进入对应的github仓库，点击settings,在Custom domain一栏内填写已解析的域名，点击save保存.<br>勾选强制https（Enforce HTTPS），刚配置域名后，github24小时后才可勾选此项.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216101050.png"></p><h3 id="本地配置"><a href="#本地配置" class="headerlink" title="本地配置"></a>本地配置</h3><p>在博客项目根目录下source文件夹内用记事本打开CNAME（无后缀）文件，填写解析好的域名即可.</p><p>还有一些步骤需要跟随腾讯云的指引完成.</p><p>Hexo三连即可完成！</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="配置腾讯云域名"><a href="#配置腾讯云域名" class="headerlink" title="配置腾讯云域名"></a>配置腾讯云域名</h1><h2 id="购买域名"><a href="#购买域名" class="headerlink" title="购买域名"></a>购买域名</h2><p><a href="https://cloud.tencent.com/act/domainsales?fromSource=gwzcw.2212036.2212036.2212036&utm_medium=cpc&utm_id=gwzcw.2212036.2212036.2212036">前往腾讯云注册域名</a></p><h2 id="解析域名"><a href="#解析域名" class="headerlink" title="解析域名"></a>解析域名</h2><h3 id="登入域名控制台"><a href="#登入域名控制台" class="headerlink" title="登入域名控制台"></a>登入域名控制台</h3><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100016.png" alt="屏幕截图 2021-02-16 095812"></p><h3 id="添加解析记录"><a href="#添加解析记录" class="headerlink" title="添加解析记录"></a>添加解析记录</h3><p>选择对应域名点击解析.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100102.png" alt="屏幕截图 2021-02-16 095836"></p><p>点击添加记录添加两条记录.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216100113.png" alt="屏幕截图 2021-02-16 095901"></p><h4 id="记录一"><a href="#记录一" class="headerlink" title="记录一"></a>记录一</h4><p>主机记录 @<br>记录类型 CNAME<br>线路类型 默认<br>记录值 username.github.io(可访问自己博客的地址)<br>TTL（秒） 600</p><h4 id="记录二"><a href="#记录二" class="headerlink" title="记录二"></a>记录二</h4><p>主机记录 www<br>记录类型 A<br>线路类型 默认<br>记录值 xxx.xxx.xxx.xxx（填写自己博客公网ip）<br>TTL（秒） 600</p><h2 id="配置域名"><a href="#配置域名" class="headerlink" title="配置域名"></a>配置域名</h2><h3 id="仓库配置"><a href="#仓库配置" class="headerlink" title="仓库配置"></a>仓库配置</h3><p>进入对应的github仓库，点击settings,在Custom domain一栏内填写已解析的域名，点击save保存.<br>勾选强制https（Enforce HTTPS），刚配置域名后，github24小时后才可勾选此项.</p><p><img src="https://cdn.jsdelivr.net/gh/SilentWolfx/img/img/20210216101050.png"></p><h3 id="本地配置"><a href="#本地配置" class="headerlink" title="本地配置"></a>本地配置</h3><p>在博客项目根目录下source文件夹内用记事本打开CNAME（无后缀）文件，填写解析好的域名即可.</p><p>还有一些步骤需要跟随腾讯云的指引完成.</p><p>Hexo三连即可完成！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Blog-配置腾讯云域名&quot;&gt;&lt;a href=&quot;#Blog-配置腾讯云域名&quot; class=&quot;headerlink&quot; title=&quot;Blog-配置腾讯云域名&quot;&gt;&lt;/a&gt;Blog-配置腾讯云域名&lt;/h1&gt;&lt;h2 id=&quot;购买域名&quot;&gt;&lt;a href=&quot;#购买域名&quot; cla</summary>
+    <summary type="html">&lt;h1 id=&quot;配置腾讯云域名&quot;&gt;&lt;a href=&quot;#配置腾讯云域名&quot; class=&quot;headerlink&quot; title=&quot;配置腾讯云域名&quot;&gt;&lt;/a&gt;配置腾讯云域名&lt;/h1&gt;&lt;h2 id=&quot;购买域名&quot;&gt;&lt;a href=&quot;#购买域名&quot; class=&quot;headerlink&quot; titl</summary>
       
     
     
@@ -295,6 +295,50 @@
     
     
     <category term="Arduino" scheme="http://example.com/categories/Arduino/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>高中英语</title>
+    <link href="http://example.com/2021/01/23/%E9%AB%98%E4%B8%AD-%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD/"/>
+    <id>http://example.com/2021/01/23/%E9%AB%98%E4%B8%AD-%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD/</id>
+    <published>2021-01-23T01:00:19.826Z</published>
+    <updated>2021-02-17T14:32:41.050Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="高中英语（佛山）"><a href="#高中英语（佛山）" class="headerlink" title="高中英语（佛山）"></a>高中英语（佛山）</h1><h2 id="第一部分-听力"><a href="#第一部分-听力" class="headerlink" title="第一部分 听力"></a>第一部分 听力</h2><h3 id="听力理解"><a href="#听力理解" class="headerlink" title="听力理解"></a>听力理解</h3><h3 id="回答问题"><a href="#回答问题" class="headerlink" title="回答问题"></a>回答问题</h3><h2 id="第二部分-阅读理解"><a href="#第二部分-阅读理解" class="headerlink" title="第二部分 阅读理解"></a>第二部分 阅读理解</h2><h3 id="A-B-C-D"><a href="#A-B-C-D" class="headerlink" title="A B C D"></a>A B C D</h3><h3 id="七选五"><a href="#七选五" class="headerlink" title="七选五"></a>七选五</h3><h2 id="第三部分-英语知识运用"><a href="#第三部分-英语知识运用" class="headerlink" title="第三部分 英语知识运用"></a>第三部分 英语知识运用</h2><h3 id="完形填空"><a href="#完形填空" class="headerlink" title="完形填空"></a>完形填空</h3><h3 id="语法填空"><a href="#语法填空" class="headerlink" title="语法填空"></a>语法填空</h3><h2 id="第四部分-词汇与写作"><a href="#第四部分-词汇与写作" class="headerlink" title="第四部分 词汇与写作"></a>第四部分 词汇与写作</h2><h3 id="词汇基础"><a href="#词汇基础" class="headerlink" title="词汇基础"></a>词汇基础</h3><h3 id="翻译句子"><a href="#翻译句子" class="headerlink" title="翻译句子"></a>翻译句子</h3><h3 id="书面表达"><a href="#书面表达" class="headerlink" title="书面表达"></a>书面表达</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;高中英语（佛山）&quot;&gt;&lt;a href=&quot;#高中英语（佛山）&quot; class=&quot;headerlink&quot; title=&quot;高中英语（佛山）&quot;&gt;&lt;/a&gt;高中英语（佛山）&lt;/h1&gt;&lt;h2 id=&quot;第一部分-听力&quot;&gt;&lt;a href=&quot;#第一部分-听力&quot; class=&quot;header</summary>
+      
+    
+    
+    
+    <category term="高中" scheme="http://example.com/categories/%E9%AB%98%E4%B8%AD/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>高中语文</title>
+    <link href="http://example.com/2021/01/23/%E9%AB%98%E4%B8%AD-%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87/"/>
+    <id>http://example.com/2021/01/23/%E9%AB%98%E4%B8%AD-%E9%AB%98%E4%B8%AD%E8%AF%AD%E6%96%87/</id>
+    <published>2021-01-23T00:32:07.067Z</published>
+    <updated>2021-02-17T14:32:29.001Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="高中语文（佛山）"><a href="#高中语文（佛山）" class="headerlink" title="高中语文（佛山）"></a>高中语文（佛山）</h1><h2 id="现代文阅读"><a href="#现代文阅读" class="headerlink" title="现代文阅读"></a>现代文阅读</h2><h3 id="论述类文本阅读"><a href="#论述类文本阅读" class="headerlink" title="论述类文本阅读"></a>论述类文本阅读</h3><h3 id="实用类文本阅读"><a href="#实用类文本阅读" class="headerlink" title="实用类文本阅读"></a>实用类文本阅读</h3><h3 id="文学类文本阅读"><a href="#文学类文本阅读" class="headerlink" title="文学类文本阅读"></a>文学类文本阅读</h3><h2 id="古代诗文阅读"><a href="#古代诗文阅读" class="headerlink" title="古代诗文阅读"></a>古代诗文阅读</h2><h3 id="文言文阅读"><a href="#文言文阅读" class="headerlink" title="文言文阅读"></a>文言文阅读</h3><h3 id="古代诗歌阅读"><a href="#古代诗歌阅读" class="headerlink" title="古代诗歌阅读"></a>古代诗歌阅读</h3><h3 id="名篇名句默写"><a href="#名篇名句默写" class="headerlink" title="名篇名句默写"></a>名篇名句默写</h3><h2 id="语言文字运用"><a href="#语言文字运用" class="headerlink" title="语言文字运用"></a>语言文字运用</h2><h3 id="成语运用"><a href="#成语运用" class="headerlink" title="成语运用"></a>成语运用</h3><h3 id="语句衔接"><a href="#语句衔接" class="headerlink" title="语句衔接"></a>语句衔接</h3><h3 id="病句修改"><a href="#病句修改" class="headerlink" title="病句修改"></a>病句修改</h3><h3 id="语句排序"><a href="#语句排序" class="headerlink" title="语句排序"></a>语句排序</h3><h3 id="压缩语段"><a href="#压缩语段" class="headerlink" title="压缩语段"></a>压缩语段</h3><h3 id="补写句子"><a href="#补写句子" class="headerlink" title="补写句子"></a>补写句子</h3><h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><h3 id="议论文写作"><a href="#议论文写作" class="headerlink" title="议论文写作"></a>议论文写作</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;高中语文（佛山）&quot;&gt;&lt;a href=&quot;#高中语文（佛山）&quot; class=&quot;headerlink&quot; title=&quot;高中语文（佛山）&quot;&gt;&lt;/a&gt;高中语文（佛山）&lt;/h1&gt;&lt;h2 id=&quot;现代文阅读&quot;&gt;&lt;a href=&quot;#现代文阅读&quot; class=&quot;headerlink</summary>
+      
+    
+    
+    
+    <category term="高中" scheme="http://example.com/categories/%E9%AB%98%E4%B8%AD/"/>
     
     
   </entry>
